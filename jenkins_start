@@ -1,0 +1,2 @@
+#Jenkins start script changed
+/apps/java/jdk/bin/java -jar jenkins-2.107.3.war --httpPort=8085
